@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="101" tvg-name="SKY1" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png",101 | SKY 1
 http://cdnhd.iblups.com/hls/jKU7eLgw0m.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="SKYNEWS" tvg-logo="",102 | SKY NEWS
+#EXTINF:-1 tvg-id="101" tvg-name="SKYNEWS" tvg-logo="https://raw.githubusercontent.com/MINMediaGlobal/skytv/main/unnamed.png",102 | SKY NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651918113/ei/wfB1YpyDHc_MwASTxpzoAQ/ip/2800%3A150%3A153%3A26d6%3A7c64%3A9f87%3Ad533%3A3270/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/cl/spc/4ocVC2mJHu6kGmX30NEiKWcuU8vx/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXGijYne8eQAQEK1dYoYqRiQoM104a3wK7ZB_T6mdZrECIQCphIu3Ng4neGxhr53wPZCY1PkgbLawVsmm0Mb02wKsTQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg",104 | La Red
 https://marine2.miplay.cl/lared/playlist.m3u8?PlaylistM3UCL
